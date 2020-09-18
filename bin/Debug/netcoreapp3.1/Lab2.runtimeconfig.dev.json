@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\laaba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\laaba\\.nuget\\packages"
+    ]
+  }
+}
